@@ -1,0 +1,1 @@
+<h1>Rails first app</h1>
